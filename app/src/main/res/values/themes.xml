@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.NeonDodge" parent="Theme.MaterialComponents.DayNight.NoActionBar">
-        <item name="colorPrimary">#00E5FF</item>
-        <item name="colorPrimaryVariant">#00B8D4</item>
-        <item name="colorOnPrimary">#000000</item>
-        <item name="colorSecondary">#FF1744</item>
-        <item name="colorOnSecondary">#FFFFFF</item>
+    <style name="Theme.Neon" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#00FFFF</item>
+        <item name="colorPrimaryDark">#009999</item>
+        <item name="colorAccent">#FF00FF</item>
     </style>
 
 </resources>
